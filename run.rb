@@ -17,6 +17,7 @@ module Run
   end
 
   def this_is_not_covered
+    "another uncovered"
     "adding more uncovered lines"
   end
 
