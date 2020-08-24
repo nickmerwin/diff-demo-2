@@ -2,5 +2,4 @@ language: ruby
 rvm:
   - 2.6.3
 env:
-  - COVERALLS_REPO_TOKEN: lIa5bMDvbRrnTo4pAeTk3IG6L3jQ3t2cP
-  - COVERALLS_ENDPOINT: https://coveralls-nick.ngrok.io
+  - COVERALLS_REPO_TOKEN= lIa5bMDvbRrnTo4pAeTk3IG6L3jQ3t2cP COVERALLS_ENDPOINT= https://coveralls-nick.ngrok.io
